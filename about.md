@@ -13,8 +13,3 @@ A place to include any other types of information that you'd like to include abo
 ### Contact me
 
 [ken@essentialinfrastructure.com](mailto:ken@essentialinfrastructure.com)
-
-footer-links:
-  email: ken@essentialinfrastructure.co.uk
-  github: kenhendo
-  linkedin: kenhen
