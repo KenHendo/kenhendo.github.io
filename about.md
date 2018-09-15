@@ -12,4 +12,4 @@ A place to include any other types of information that you'd like to include abo
 
 ### Contact me
 
-[ken@essentialinfrastructure.com](mailto:ken@essentialinfrastructure.com)
+[ken@essentialinfrastructure.co.uk](mailto:ken@essentialinfrastructure.co.uk)
