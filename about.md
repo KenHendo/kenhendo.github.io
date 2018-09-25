@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-This is Ken Henderson's website, discussing technology, certification & self-study.  Occassionally, other random topics may leap from brain to page.
+This is Ken Henderson's website, discussing technology, certification & self-study.  Occasionally, other random topics may leap from brain to page.
 
 Ken is a freelance IT consultant, based in the UK, specialising in Automation, PowerShell, Active Directory and Azure.  Currently building skills in C# devlopment.
 
