@@ -2,7 +2,7 @@
 layout: post
 title: Updated Azure certifications detailed 
 ---
-# Details of the new AZ- exams released
+## Details of the new AZ- exams released
 
 As is now tradition, Microsoft have just announced various changes to the various Azure certifications at Ignite.
 
@@ -27,7 +27,7 @@ A further three Azure tracks will be added to that list in the next few months:-
 
 https://www.microsoft.com/en-us/learning/browse-new-certification.aspx
 
-## So what does this mean?
+### So what does this mean?
 
 If you have not yet started on the path to Azure certification, then the message is clear: start with the new exams for one of the role-based Azure certifications.
 
@@ -35,7 +35,7 @@ However, if you already hold one of the previous Azure certifications, then ther
 
 Expect to see more of this "Role Based" aproach to Microsoft certification going forward across different technologies, such as SQL, Core infrastructure etc.
 
-## Initial Thoughts
+### Initial Thoughts
 
 Honestly?  My first response was a groan.  After passing 70-533 earlier in the year, I'd deliberately held off further Azure certification until Ignite and a clearer indication from Microsoft of their Cloud certification plans.
 
