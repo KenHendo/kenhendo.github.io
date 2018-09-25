@@ -4,11 +4,24 @@ title: About
 permalink: /about/
 ---
 
-pending update....
+This is Ken Henderson's website, discussing technology, certification & self-study.  Occassionally, other random topics may leap from brain to page.
+
+Ken is a freelance IT consultant, based in the UK, specialising in Automation, PowerShell, Active Directory and Azure.  Currently building skills in C# devlopment.
 
 ### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
+Previous clients include:-
+
+* Standard Life Investments
+* Aberdeen Asset Management
+* Babcock International
+* De La Rue
+* Hewlett Packard
+* Ministry of Defence
+* Ministry of Justice
+* Procter & Gamble
+
+Available for freelance and contract work anywhere within the UK and EU.
 
 ### Contact me
 
