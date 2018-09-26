@@ -111,6 +111,7 @@ For now, I've still got quite a bit of work ahead progressing through some of [B
 * define the batch output and conditions by using Batch Service API
 * write code to run a batch job
 * run a batch job by using Azure CLI, Azure Portal, and other tools
+
 ### Create solutions that use Azure Kubernetes Service
 
 * configure diagnostic settings on resources
