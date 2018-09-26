@@ -2,10 +2,8 @@
 layout: post
 title: Updated Azure certifications detailed 
 ---
-## Details of the new AZ- exams released
 
 As is now tradition, Microsoft have just announced various changes to the various Azure certifications at Ignite.
-
 
 First and foremost, the current Azure exams such as 70-533, and the MCSA / MCSE tracks that they contribute to, are being retired at the end of December 2018.  The retired certifications are:-
 
@@ -25,9 +23,9 @@ A further three Azure tracks will be added to that list in the next few months:-
 * Microsoft 365 Certified: Enterprise Administrator Expert
 * Microsoft 365 Certified: Modern Desktop Administrator Associate
 
-https://www.microsoft.com/en-us/learning/browse-new-certification.aspx
+[Further Details @ Microsoft.com](https://www.microsoft.com/en-us/learning/browse-new-certification.aspx)
 
-### So what does this mean?
+### So what does this mean
 
 If you have not yet started on the path to Azure certification, then the message is clear: start with the new exams for one of the role-based Azure certifications.
 
