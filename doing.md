@@ -4,23 +4,14 @@ title: Doing
 permalink: /doing/
 ---
 
-A list of projects I'm currently working on, books I'm reading and technology I'm investigating.
+## A list of projects I'm currently working on, books I'm reading and technology I'm investigating.
 
-### More Information
+* Preparing for the newly released AZ-102 Azure upgrade exam.
+* Deploying an example CI/CD pipeline using Gradle, Jenkins and Docker within Azure.
+* Refactoring a lot of my old PowerShell code into a new general tools module.  This gives me an excuse to practice an element of test driven development via Pester.
+* Building C# skills by deploying some small asp.net projects.
+* Reading: "Site Reliability Engineering", "The Site Reliability Workbook", "The Phoenix Project".
 
-Previous clients include:-
+Plenty of stuff there to keep me out of trouble for a while (I hope...).
 
-* Standard Life Investments
-* Aberdeen Asset Management
-* Babcock International
-* De La Rue
-* Hewlett Packard
-* Ministry of Defence
-* Ministry of Justice
-* Procter & Gamble
-
-Available for freelance and contract work anywhere within the UK and EU.
-
-### Contact me
-
-[ken@essentialinfrastructure.co.uk](mailto:ken@essentialinfrastructure.co.uk)
+I'm always on the lookout for recommendations of good tech training resources, so if you know of any you'd like to share please let me know. :-)
