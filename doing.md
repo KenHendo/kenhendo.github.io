@@ -4,7 +4,7 @@ title: Doing
 permalink: /doing/
 ---
 
-## A list of projects I'm currently working on, books I'm reading and technology I'm investigating.
+### A list of projects I'm currently working on, books I'm reading and technology I'm investigating.
 
 * Preparing for the newly released AZ-102 Azure upgrade exam.
 * Deploying an example CI/CD pipeline using Gradle, Jenkins and Docker within Azure.
