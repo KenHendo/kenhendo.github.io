@@ -1,6 +1,6 @@
 ---
 layout: post
-title: A new contract role
+title: A busy few weeks
 ---
 
 The last few weeks haven't given me much time to post anything new as I've been working on securing a new contract, with all that entails, and continuing to study for the AZ-102 exam.
