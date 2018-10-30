@@ -18,7 +18,7 @@ So what is the DevOps exam about?  According to the blurb published on the exam 
 
 Together with the list of exam objective, that's about as much info as I've been able to find about the DevOps track.
 
-What jumps out is just how much of a focus is being placed on process and methodology, as opposed to the straightfoward technical bent of the Azure Administrator exams. Lots of requirements to be familiar with open-source tools too, and how to utilise these with various Azure solutions.
+What jumps out is just how much of a focus is being placed on process and methodology, as opposed to the straightfoward technical bent of the Azure Administrator exams. Lots of requirements to be familiar with third-party products too, and how to utilise these with various Azure solutions.
 
 [AZ-400 objectives](https://www.microsoft.com/en-us/learning/exam-az-400.aspx)
 
