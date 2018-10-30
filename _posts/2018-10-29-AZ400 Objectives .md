@@ -8,7 +8,7 @@ So far, there are two "Expert" level certifiction paths for Azure under this new
 
 Strangely, unlike the DevOps track, the Architect certification has no-preqs (at least in terms of other certifications - you can jump straight into AZ-300 and AZ301, which are the two component exams of the Architect track).
 
-![Role-based Azure Certification paths](https://github.com/KenHendo/kenhendo.github.io/blob/master/images/newAzureCerts.png)
+![Role-based Azure Certification paths](https://github.com/KenHendo/kenhendo.github.io/blob/master/images/newAzureCerts.png?raw=true)
 
 So what is the DevOps exam about?  According to the blurb published on the exam page:-
 
