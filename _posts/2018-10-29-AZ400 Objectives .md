@@ -4,11 +4,11 @@ title: AZ-400 | Microsoft Azure DevOps Solutions (beta)
 ---
 The new AZ-400 exam was released in Beta format last Friday.  Completion of this exam, together with already holding either the **Azure Administrator Associate** or **Azure Developer Associate** certification grants the **Azure DevOps Engineer Expert** cert.
 
-So far, there are two "Expert" level certifiction paths for Azure under this new system of role-based exams - which I assume are the new MCSE equivalents.  The other one being the **Azure Solutions Architect Expert**.
+So far, there are two "Expert" level certifiction paths for Azure under this new system of role-based exams - which look to be the new MCSE equivalents.  The other one being the **Azure Solutions Architect Expert**.
 
 Strangely, unlike the DevOps track, the Architect certification has no-preqs (at least in terms of other certifications - you can jump straight into AZ-300 and AZ301, which are the two component exams of the Architect track).
 
-![Role-based Azure Certification paths](https://github.com/KenHendo/kenhendo.github.io/blob/master/images/newAzureCerts.png "Role-based Azure Certification paths")
+![Role-based Azure Certification paths](https://github.com/KenHendo/kenhendo.github.io/blob/master/images/newAzureCerts.png) "Role-based Azure Certification paths"
 
 So what is the DevOps exam about?  According to the blurb published on the exam page:-
 
