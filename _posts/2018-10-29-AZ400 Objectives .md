@@ -2,6 +2,19 @@
 layout: post
 title: AZ-400 | Microsoft Azure DevOps Solutions (beta)
 ---
+The new AZ-400 exam was released in Beta format last Friday.  Completion of this exam, together with already holding either the **Azure Administrator Associate** or **Azure Developer Associate** certification grants the **Azure DevOps Engineer Expert** cert.
+
+So far, there are two "Expert" level certifiction paths for Azure under this new system of role-based exams - which I assume are the new MCSE equivalents.  The other one being the **Azure Solutions Architect Expert**.
+
+Strangely, unlike the DevOps track, the Architect certification has no-preqs (at least in terms of other certifications - you can jump straight into AZ-300 and AZ301, which are the two component exams of the Architect track).
+
+![Role-based Azure Certification paths](https://github.com/KenHendo/kenhendo.github.io/blob/master/images/newAzureCerts.png "Role-based Azure Certification paths")
+
+So what is the DevOps exam about?  According to the blurb published on the exam page:-
+
+>Candidates for this exam are DevOps professionals who combine people, process, and technologies to continuously deliver valuable products and services that meet end user needs and business objectives. DevOps professionals streamline delivery by optimizing practices, improving communications and collaboration, and creating automation. They design and implement strategies for application code and infrastructure that allow for continuous integration, continuous testing, continuous delivery, and continuous monitoring and feedback.
+
+>Candidates must be proficient with Agile practices. They must be familiar with both Azure administration and Azure development and experts in at least one of these areas. Azure DevOps professionals must be able to design and implement DevOps practices for version control, compliance, infrastructure as code, configuration management, build, release, and testing by using Azure technologies.
 
 [AZ-400 objectives](https://www.microsoft.com/en-us/learning/exam-az-400.aspx)
 
