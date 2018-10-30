@@ -9,7 +9,7 @@ title: AZ-400 | Microsoft Azure DevOps Solutions (beta)
 ## Recommend a migration and consolidation strategy for DevOps tools
 * Analyze existing artifact (e.g. deployment packages, NuGet) and container repositories
 * Analyze existing test management tools
-* Analyze existing work management tools*
+* Analyze existing work management tools
 * Recommend migration and integration strategies for artifact repositories source control, test management, and work management
 ## Design and implement an Agile work management approach
 * Identify and recommend project metrics, KPIs, and DevOps measurements (e.g. cycle time, lead time, Azure Kubernetes Service, WIP limit)
@@ -28,7 +28,7 @@ title: AZ-400 | Microsoft Azure DevOps Solutions (beta)
 * Inspect and validate code base for compliance
 * Inspect and validate infrastructure for compliance
 * Recommend a secure development strategy
-* Recommend tools and practices to integrate code security validation (e.g. * static code analysis)
+* Recommend tools and practices to integrate code security validation (e.g. static code analysis)
 * Recommend tools and practices to integrate infrastructure security validation
 ## Design a tool integration strategy
 * Design a license management strategy (e.g. VSTS users, concurrent pipelines, * test environments, open source software licensing, DevOps tools and services package management licensing)
@@ -64,7 +64,7 @@ title: AZ-400 | Microsoft Azure DevOps Solutions (beta)
 * Implement a secure and compliant development process
 * Implement general (non-secret) configuration data
 * Manage secrets, tokens, and certificates
-* Implement applications configurations (e.g. Web App, Azure Kubernetes Service, * containers)
+* Implement applications configurations (e.g. Web App, Azure Kubernetes Service, containers)
 * Implement secrets management (e.g. Web App, Azure Kubernetes Service containers, Azure Key Vault)
 * Implement tools for managing security and compliance in the pipeline
 
@@ -76,7 +76,7 @@ title: AZ-400 | Microsoft Azure DevOps Solutions (beta)
 * Manage automated test quality
 * Manage test suites and categories
 * Monitor quality of tests
-* Integrate security analysis tools (e.g. SonarQube, WhiteSource Bolt, Open Web * Application Security Project)
+* Integrate security analysis tools (e.g. SonarQube, WhiteSource Bolt, Open Web Application Security Project)
 ## Implement a container build strategy
 * Create deployable images (e.g. Docker, Azure Container Registry)
 * Analyze and integrate Docker multi-stage builds
@@ -96,7 +96,7 @@ title: AZ-400 | Microsoft Azure DevOps Solutions (beta)
 * Recommend strategy for release notes and documentation
 * Select appropriate deployment pattern
 ## Set up a release management workflow
-* Automate inspection of health signals for release approvals by using release * gates
+* Automate inspection of health signals for release approvals by using release gates
 * Configure automated integration and functional test execution
 * Create a release pipeline (e.g. Azure Kubernetes Service, Service Fabric, * WebApp)
 * Create multi-phase release pipelines
@@ -118,8 +118,8 @@ title: AZ-400 | Microsoft Azure DevOps Solutions (beta)
 * Identify and recommend standardized package types and versions across the solution
 * Refactor existing build pipelines to implement version strategy that publishes packages
 ## Manage security and compliance
-* Inspect open source software packages for security and license compliance to * align with corporate standards (e.g. GPLv3)
-* Configure build pipeline to access package security and license rating (e.g. * Black Duck, White Source)
+* Inspect open source software packages for security and license compliance to align with corporate standards (e.g. GPLv3)
+* Configure build pipeline to access package security and license rating (e.g. Black Duck, White Source)
 * Configure secure access to package feeds
 
 
@@ -128,7 +128,7 @@ title: AZ-400 | Microsoft Azure DevOps Solutions (beta)
 * Analyze existing and future hosting infrastructure
 * Analyze existing Infrastructure as Code technologies
 * Design a strategy for managing technical debt on templates
-* Design a strategy for using transient infrastructure for parts of a delivery * lifecycle
+* Design a strategy for using transient infrastructure for parts of a delivery lifecycle
 * Design a strategy to mitigate infrastructure state drift
 ## Implement Infrastructure as Code
 * Create nested resource templates
@@ -138,7 +138,7 @@ title: AZ-400 | Microsoft Azure DevOps Solutions (beta)
 * Recommend appropriate technologies for configuration management
 ## Manage Azure Kubernetes Service infrastructure
 * Provision Azure Kubernetes Service (e.g. using ARM templates, CLI)
-* Create deployment file for publishing to Azure Kubernetes Service (e.g. kubectl,*  Helm)
+* Create deployment file for publishing to Azure Kubernetes Service (e.g. kubectl,  Helm)
 * Develop a scaling plan
 ## Implement infrastructure compliance and security
 * Implement compliance and security scanning
