@@ -16,7 +16,7 @@ So what is the DevOps exam about?  According to the blurb published on the exam 
 
 >Candidates must be proficient with Agile practices. They must be familiar with both Azure administration and Azure development and experts in at least one of these areas. Azure DevOps professionals must be able to design and implement DevOps practices for version control, compliance, infrastructure as code, configuration management, build, release, and testing by using Azure technologies.
 
-Together with the list of exam objective, that's about as much info as I've been able to find about the DevOps track.
+Together with the list of exam objective, that's about as much info as I've been able to find so far.  I'm hoping that MS will add a course to https://www.getazureready.com/ or similar that will give a better understading of what's required.
 
 What jumps out is just how much of a focus is being placed on process and methodology, as opposed to the straightfoward technical bent of the Azure Administrator exams. Lots of requirements to be familiar with third-party products too, and how to utilise these with various Azure solutions.
 
